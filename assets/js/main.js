@@ -196,6 +196,7 @@
 					}
 
 			};
+			
 
 			$main._hide = function(addState) {
 
